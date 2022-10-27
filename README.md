@@ -1,2 +1,2 @@
-# Lailaesa_Portfolio
-Business Decision Making 
+## Lailaesa_Portfolio
+#PROJECT 1 : Business Decision Making From DqLab Academy
