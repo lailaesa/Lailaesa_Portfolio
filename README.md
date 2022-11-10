@@ -6,3 +6,4 @@
 - Manage data according to categories
 - Visualizing data
 
+## [PROJECT 3 : The World Bank's international debt data]
