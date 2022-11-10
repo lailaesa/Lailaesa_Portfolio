@@ -6,4 +6,4 @@
 - Manage data according to categories
 - Visualizing data
 
-## [PROJECT 3 : The World Bank's international debt data]
+## [PROJECT 3 : The World Bank's international debt data](https://github.com/lailaesa/Lailaesa_Portfolio/blob/main/WORLD%20BANK%20ANALYSIS%20WITH%20SQL.ipynb)
