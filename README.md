@@ -11,3 +11,4 @@ In this notebook, we are going to analyze international debt data collected by T
 - What is the total amount of debt that is owed by the countries listed in the dataset?
 - Which country owns the maximum amount of debt and what does that amount look like?
 - What is the average amount of debt owed by countries across different debt indicators?
+## [PROJECT 4 : Clean Data With Microsoft SQL] (https://github.com/lailaesa/Lailaesa_Portfolio/blob/main/CLEAN%20DATA%20WITH%20SQL.sql)
